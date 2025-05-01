@@ -6,11 +6,11 @@ import { environment } from './environments/environment';
 
 
 export function getBaseUrl(){
-  return "http://192.168.1.118:3004/api"
+  return "http://98.70.57.218:3004/api"
 }
 
 export function getBaseUrlImage(){
-  return "http://192.168.1.118:3004/"
+  return "http://98.70.57.218:3004/"
 }
 
 const providers = [
